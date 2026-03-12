@@ -1,6 +1,6 @@
 # Hi, I'm Abhinandan Singh 👋
 
-**B.Tech Computer Engineering @ MIT-WPU '28 | ML Head @ CoDeC | Computer Vision • LLMs • RAG**
+**Computer Vision • LLMs • RAG**
 
 I'm a second-year CS student passionate about building AI-powered systems, exploring the intersection of machine learning and real-world impact. Outside of code, I'm a defence enthusiast and digital artist.
 
