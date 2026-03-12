@@ -37,7 +37,7 @@ I'm a second-year CS student passionate about building AI-powered systems, explo
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Intelligent Document Retrieval System](https://github.com/LadakaTayaara/hackrx6.0) | RAG-based pipeline that answers questions from documents using semantic retrieval | Python, FastAPI, Pinecone, Gemini |
-| [Smart Pothole Detection](https://github.com/LadakaTayaara/Hole-lotta-problems) | YOLOv8-based CV pipeline for pothole detection with GPS-based severity mapping | Python, YOLOv8, GPS |
+| Smart Pothole Detection | YOLOv8-based CV pipeline for pothole detection with GPS-based severity mapping | Python, YOLOv8, GPS |
 | AI-Driven LCA Tool | AI system to analyze environmental impact across product life cycles | Python, PyTorch |
 
 ---
@@ -47,10 +47,9 @@ I'm a second-year CS student passionate about building AI-powered systems, explo
 - Actively participating in **CodeChef contests** to sharpen DSA and problem-solving skills
 - Maintaining **GitHub repos** as a structured memo of progress, patterns, and problems solved
 - Exploring **system design** fundamentals alongside competitive programming
-
 ---
 
-![HAL Tejas - Digital Illustration](https://raw.githubusercontent.com/LadakaTayaara/LadakaTayaara/main/tejas.png)
+![HAL Tejas - Digital Illustration](https://github.com/LadakaTayaara/LadakaTayaara/blob/main/tejas.png?raw=true)
 
 ---
 
